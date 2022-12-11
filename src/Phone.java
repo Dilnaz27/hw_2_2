@@ -1,7 +1,3 @@
-public class Phone implements Printable{
-
-    @Override
-    public void print() {}
-
+public abstract class Phone implements Printable{
 
 }
